@@ -1,0 +1,11 @@
+.App {
+  min-height: 100vh;
+}
+
+.task-section {
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.task-section:last-child {
+  border-bottom: none;
+}
